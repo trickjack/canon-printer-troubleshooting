@@ -122,6 +122,8 @@ Error Codes Displayed
 - Reset or power-cycle the printer.
 - Clear paper jams or ink cartridge issues based on the error message.
 
+`Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_  **[Dial +1-801-878-6858 USA]**
+
 Additional Canon Printer Maintenance Tips
 -----------------------------------------
 
