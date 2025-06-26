@@ -316,3 +316,140 @@ Conclusion
 
 A **Canon printer offline error** on Windows or Mac is common but usually easy to resolve with the right troubleshooting steps. By checking your connections, updating drivers, setting the correct defaults, and clearing print queues, you can quickly restore your Canon printer to working order. If all else fails, contacting Canon customer support is a reliable next step.
 
+Canon Printer Won’t Connect to WiFi: Complete Troubleshooting Guide
+====================================================================
+
+A Canon printer is an essential device for home and office use, known for its reliable performance and print quality. However, one frustrating issue users often encounter is **Canon printer won’t connect to WiFi**. When this happens, you can’t print wirelessly or access cloud print features. Fortunately, this problem is common and fixable with the right approach.
+
+`Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_  **[Dial +1-801-878-6858 USA]**
+
+In this guide, we’ll explain why your Canon printer fails to connect to WiFi and how to troubleshoot it effectively on both Windows and Mac.
+
+Why is My Canon Printer Not Connecting to WiFi?
+-----------------------------------------------
+
+Understanding the possible reasons behind WiFi connectivity problems can help you apply the right fix quickly. Below are the most common causes:
+
+1. **Incorrect WiFi Network Selection**  
+   If your printer is trying to connect to the wrong network or an unavailable network, it will fail to establish a connection.
+
+2. **Weak or Unstable WiFi Signal**  
+   A poor WiFi signal, especially if the printer is far from the router, can prevent the printer from staying connected.
+
+3. **Outdated Printer Firmware**  
+   Running your printer on outdated firmware may cause compatibility issues with modern wireless routers or security protocols.
+
+4. **Incorrect Password or Security Settings**  
+   Entering an incorrect WiFi password or having incompatible security encryption settings can stop your printer from connecting.
+
+5. **Router Settings and Restrictions**  
+   If your router settings block new device connections, or MAC filtering is enabled, your Canon printer might get rejected by the network.
+
+6. **Interference from Other Devices**  
+   Electronic devices like cordless phones, microwaves, and Bluetooth speakers can interfere with WiFi signals, leading to disconnection problems.
+
+7. **Printer Driver or Software Issues**  
+   Outdated or corrupted drivers can prevent your computer and printer from communicating over a network.
+
+`Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_  **[Dial +1-801-878-6858 USA]**
+
+How Do I Fix The Canon Printer Won’t Connect to WiFi?
+-----------------------------------------------------
+
+Here’s a step-by-step troubleshooting process to help you reconnect your Canon printer to WiFi.
+
+**Step 1: Restart Devices**
+
+- Turn off your printer and unplug it for a minute.
+- Restart your WiFi router.
+- Restart your computer or mobile device.
+- Power everything back on and retry connecting.
+
+**Step 2: Verify Network Name (SSID) and Password**
+
+- Ensure that the printer is attempting to connect to the correct WiFi network (SSID).
+- You’re entering the correct case-sensitive WiFi password.
+
+**Step 3: Move Printer Closer to Router**
+
+- Ensure the printer is within 8-10 meters of the router without walls or heavy interference.
+
+**Step 4: Use WPS Button Method (If Available)**
+
+If your router and printer both support WPS:
+
+- Turn on your Canon printer.
+- Press the WiFi button until the indicator light flashes.
+- Press and hold the WPS button on your router within 2 minutes.
+- Wait for the printer’s WiFi indicator to stop blinking and remain solid.
+
+**Step 5: Reconfigure Wireless Settings Using Canon IJ Setup**
+
+- Download Canon IJ Setup from https://ij.start.canon.
+- Launch the software and select **Set Up (Start Setup)**.
+- Choose your printer model.
+- Follow on-screen instructions to connect your printer to the correct WiFi network.
+
+**Step 6: Update Printer Firmware**
+
+- Visit Canon’s official support page.
+- Download and install the latest firmware for your printer model.
+- Follow the firmware update instructions carefully.
+
+**Step 7: Disable MAC Address Filtering on Router**
+
+If MAC filtering is active:
+
+- Log into your router admin panel.
+- Locate **MAC Filtering** or **Access Control** settings.
+- Either disable it or add your printer’s MAC address to the allowed list.
+
+**Step 8: Check for IP Address Conflicts**
+
+Assign a static IP to your printer via:
+
+- Printer settings or the Canon IJ Network Tool.
+- Router’s DHCP reservation list.
+
+**Step 9: Uninstall and Reinstall Printer Drivers**
+
+- Go to *Control Panel > Devices and Printers* (Windows) or *Printers & Scanners* (Mac).
+- Remove your Canon printer.
+- Download the latest drivers from Canon’s website.
+- Install the drivers and reconnect your printer.
+
+Additional Tips
+---------------
+
+- Make sure your WiFi network is not overloaded with too many devices.
+- Avoid connecting your printer to guest or restricted networks.
+- Disable VPNs when setting up a printer on a local network.
+- Ensure your WiFi uses **WPA2 encryption** (as older protocols may cause issues).
+
+Frequently Asked Questions (FAQs)
+----------------------------------
+
+**Q1. Why is my Canon printer not detecting my WiFi network?**  
+It could be due to weak signal strength, incompatible router settings, or the printer being too far from the router. Ensure your network is broadcasting, and move your printer closer.
+
+**Q2. Can outdated firmware affect WiFi connection?**  
+Yes. Outdated firmware can cause communication issues with modern routers and may prevent your Canon printer from connecting. Regularly check for and install firmware updates.
+
+**Q3. How do I connect my Canon printer using the WPS button?**  
+Press and hold the printer’s WiFi button until it flashes, then press and hold your router’s WPS button for about 2 minutes. The WiFi light should stop blinking once connected.
+
+**Q4. My printer was connected before, but now it won’t connect. Why?**  
+Possible reasons include router changes, firmware updates, IP conflicts, or interference from new electronic devices. Reboot your network, reset printer settings, or use the Canon IJ Network Tool to reconfigure.
+
+**Q5. How do I find my printer’s MAC address?**  
+On most Canon printers, you can find the MAC address through *Network Settings* in the printer’s control panel or in the **Canon IJ Network Tool** on your computer.
+
+**Q6. Does disabling MAC filtering help?**  
+Yes. If your router restricts new connections via MAC filtering, your Canon printer will be blocked. Disabling it or adding the printer’s MAC address to the allowed list can resolve the issue.
+
+Conclusion
+----------
+
+When your **Canon printer won’t connect to WiFi**, it disrupts wireless printing and cloud services. Thankfully, by following the troubleshooting steps outlined in this guide — from checking network settings to updating firmware and adjusting router configurations — you can restore full wireless functionality and get back to smooth, cable-free printing.
+
+
