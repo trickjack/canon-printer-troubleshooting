@@ -58,7 +58,7 @@ Canon Printer Not Connecting to WiFi
 - Confirm the correct WiFi password.
 - Ensure both the printer and computer/mobile are on the same network.
 - Move the printer closer to the router.
-- Use **Canon IJ Setup** from https://ij.start.canon.
+- Use **Canon IJ Setup** from `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_.
 - Reset network settings and reconnect.
 
 Paper Jam Error
